@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cloudtweaks:block/phenryl_deepslate_ore_block"
+  }
+}

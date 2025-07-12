@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cloudtweaks:pendtlerium"
+    }
+  },
+  "result": {
+    "item": "cloudtweaks:impure_pendtlerium_block"
+  }
+}

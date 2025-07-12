@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cloudtweaks:impure_pendtlerium_block"
+    }
+  ],
+  "result": {
+    "item": "cloudtweaks:pendtlerium",
+    "count": 9
+  }
+}

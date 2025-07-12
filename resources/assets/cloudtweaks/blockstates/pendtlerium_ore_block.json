@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "cloudtweaks:block/pendtlerium_ore_block" }
+  }
+}

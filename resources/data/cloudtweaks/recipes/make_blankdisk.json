@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "cloudtweaks:pendtlerwire"
+    },
+    "$": {
+      "item": "cloudtweaks:pure_pendtlerium"
+    },
+    "%": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "$%$",
+    "#$#"
+  ],
+  "result": {
+    "item": "cloudtweaks:ct_blankdisk"
+  }
+}

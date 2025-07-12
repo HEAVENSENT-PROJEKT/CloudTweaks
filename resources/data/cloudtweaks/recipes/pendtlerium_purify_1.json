@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "cloudtweaks:phenryl"
+    },
+    "$": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "%": {
+      "item": "cloudtweaks:pendtlerium"
+    }
+  },
+  "pattern": [
+    "#$#",
+    "$%$",
+    "#$#"
+  ],
+  "result": {
+    "item": "cloudtweaks:pendtlerobject"
+  }
+}

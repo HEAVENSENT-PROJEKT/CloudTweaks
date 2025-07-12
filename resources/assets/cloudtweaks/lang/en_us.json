@@ -1,0 +1,31 @@
+{
+  "item.cloudtweaks.phenryl": "Phenrylamine",
+  "item.cloudtweaks.phelymar": "Phelymar",
+  "item.cloudtweaks.pendtlerium": "Pendtler Amalgam",
+  "item.cloudtweaks.pendtlerobject": "Pendtler's Object",
+  "item.cloudtweaks.pure_pendtlerium": "Pure Pendtlerium",
+  "item.cloudtweaks.biostring": "Biostring",
+  "item.cloudtweaks.pendtlercpu": "Pendtlerium CPU",
+  "item.cloudtweaks.pendtlerwire": "Hyperconductive Wire",
+  "item.cloudtweaks.ct_blankdisk": "Blank Disk",
+
+  "item.cloudtweaks.phenryl_block": "Phenrylaminic Crystal",
+  "item.cloudtweaks.item_pendtlerconfigurator": "Pendtler Configurator",
+  "item.cloudtweaks.impure_pendtlerium_block": "Pendtler Amaglam Aggregate",
+  "item.cloudtweaks.pure_pendtlerium_block": "Pendtlerium Block",
+  "item.cloudtweaks.phenryl_ore_block": "Phenrylade",
+  "item.cloudtweaks.pendtlerium_ore_block": "Pendtlerium Ore",
+  "item.cloudtweaks.phenryl_deepslate_ore_block": "Phenrylamycrose",
+  "item.cloudtweaks.pendtlerium_deepslate_ore_block": "Deepslate Pendtlerium Ore",
+
+  "block.cloudtweaks.phenryl_block": "Phenrylaminic Crystal",
+  "block.cloudtweaks.impure_pendtlerium_block": "Pendtler Amalgam Aggregate",
+  "block.cloudtweaks.pure_pendtlerium_block": "Pendtlerium Block",
+  "block.cloudtweaks.phenryl_ore_block": "Phenrylade",
+  "block.cloudtweaks.pendtlerium_ore_block": "Pendtlerium Ore",
+  "block.cloudtweaks.phenryl_deepslate_ore_block": "Phenrylamycrose",
+  "block.cloudtweaks.pendtlerium_deepslate_ore_block": "Deepslate Pendtlerium Ore",
+  "block.cloudtweaks.pendtlermachine_1": "Pendtler Configurator",
+
+  "itemGroup.tab_ctwks": "CloudTweaks"
+}

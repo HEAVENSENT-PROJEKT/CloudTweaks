@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 400,
+  "experience": 2,
+  "ingredient": {
+    "item": "cloudtweaks:pendtlerobject"
+  },
+  "result": "cloudtweaks:pure_pendtlerium"
+}

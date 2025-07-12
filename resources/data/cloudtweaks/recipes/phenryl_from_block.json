@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cloudtweaks:phenryl_block"
+    }
+  ],
+  "result": {
+    "item": "cloudtweaks:phenryl",
+    "count": 9
+  }
+}
